@@ -428,4 +428,10 @@ Las frases que la activan:
 
 <br>
 
+[⬆️ Volver a la Baticueva](#inicio)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:000000,45:18181B,100:CA8A04&amp;height=130&amp;section=footer" width="100%" alt="Ondas animadas negras y doradas de cierre">
+
+</div>
+
 
